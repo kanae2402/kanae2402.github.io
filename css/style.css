@@ -1,0 +1,66 @@
+h1{
+    color: rgb(131, 131, 131);
+    font-size: 50px;
+    font-family: Impact;
+    
+}
+h2 a{
+    color: rgb(252, 87, 87);
+    font-family: fantasy;
+    font-size: 30px;
+    background-color: aquamarine;
+    padding: 10px 10px;
+
+}
+.header{
+    color: rgb(255, 253, 253);
+    background-color: rgb(128, 128, 128);
+    font-family: Impact;
+    font-size: 50px;
+    width:1260px;
+    height:102px;
+}
+.header-list{
+    font-size: 20px;
+    float:right;
+}
+.header-logo span{
+    color: rgb(255, 255, 255);
+    font-family:Impact;
+    border: 2px yellow;
+    font-size: 55px;
+    
+}
+.main p{
+    color: slateblue;
+    font-size:25px;
+}
+.main h1{
+    border-bottom: 2px solid gainsboro;
+}
+form p{
+    font-size: 20px
+}
+.main{
+    border-bottom: 5px solid gainsboro;
+}
+.footer{
+    background-color: rgb(118, 118, 255);
+    block-size:100px;
+}
+.footer h1 {
+    color: darkkhaki;
+}
+.contents Input{
+    font-size: 20px;
+}
+.contents h3{
+    font-family: cursive;
+    color: rgb(80, 80, 80)
+}
+.contents ul{
+    font-family: cursive;
+}
+body{
+    background-color: rgba(255, 254, 247, 0.774);
+}
